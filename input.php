@@ -1,3 +1,21 @@
+/*
+今回送ったものはPHPの練習です。
+環境構築にかなり手間取っており
+今回の面談ではそのあたりをお聞きしたいと考えています。
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
